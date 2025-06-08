@@ -1,5 +1,4 @@
-## Hi there 👋
-
+Cybersecurity professional bridging a background in Fraud, Risk & Compliance (formerly at Block) with hands-on network defense and IR skills. Building a home lab to put theory into practice.
 <!--
 **brandonlrl/brandonlrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
