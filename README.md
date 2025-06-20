@@ -37,6 +37,9 @@ As my career progressed, I made the decision to shift into **IT** to expand my t
 Deepening my technical expertise in **IT systems** and **security** while contributing to projects that emphasize **user safety** and **operational integrity**.
 
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+## 📫 How to Reach Me
+
+- [LinkedIn - Brandon Leeker](https://www.linkedin.com/in/brandon-leeker-b57932b0/)
+- Email: brandonleeker@gmail.com 
+
 
