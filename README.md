@@ -11,6 +11,14 @@ Led North American fraud, risk, reserves, and compliance support teams during th
 
 Worked closely with legal teams and attorneys general to mitigate fraud while maintaining a strong focus on the customer experience
 
+Deployed a new knowledge base system with a defined style guide to improve clairty and efficiency when navigating help articles
+
+Provisioned new mobile payment system across 5 states
+
+Created a new Hardware Support specialist team at Square to provide a deeper level of understanding and support for products for customers
+
+Participated in early field failure analysis in partnership with hardware engineers to identify errors in manufacturing, software design and hardware design
+
 **🔐 Interests:**
 Cybersecurity · Fraud Detection · Compliance Technology · Internal Audit · Risk Mitigation · Customer Trust
 
