@@ -23,18 +23,54 @@ As my career progressed, I made the decision to shift into **IT** to expand my t
 
 ## 🔐 Interests
 
-- Cybersecurity
-- Fraud Detection
-- Compliance Technology
-- Internal Audit
-- Risk Mitigation
-- Customer Trust
+I'm interested in Network Security, Penetration testing, and digital forensics. I'm actively learning and solving challenges using [TryHackMe](https://tryhackme.com/) and am in the process of building my own home lab.
 
 ---
 
 ## 🛠️ Current Focus
 
 Deepening my technical expertise in **IT systems** and **security** while contributing to projects that emphasize **user safety** and **operational integrity**.
+
+## 🛡️ Skills and Tools
+### 🎯 Offensive Security & Penetration Testing
+
+*   **Metasploit Framework**
+    *   *Use Case:* Exploitation, payload generation, and post-exploitation maneuvers.
+*   **Burp Suite**
+    *   *Use Case:* Intercepting web traffic, analyzing vulnerabilities, and performing manual web application penetration tests.
+*   **Nmap (Network Mapper)**
+    *   *Use Case:* Network scanning, service enumeration, and OS discovery to map out target environments.
+*   **John the Ripper**
+    *   *Use Case:* Cracking passwords from hashes and auditing password strength.
+*   **BeEF (Browser Exploitation Framework)**
+    *   *Use Case:* Hooking web browsers to assess client-side vulnerabilities and XSS impact.
+*   **SQL Injection**
+    *   *Use Case:* Identifying and exploiting SQL vulnerabilities to access or manipulate database information.
+
+### 💻 Scripting & Automation
+
+*   **Python 🐍**
+    *   *Use Case:* Automating security tasks, writing custom scanning tools, and parsing log data.
+*   **PowerShell**
+    *   *Use Case:* Windows system administration
+*   **Linux Command Line (Bash)**
+    *   *Use Case:* Navigating Linux systems, text manipulation with `awk`/`sed`, and writing shell scripts for automation.
+
+### 📈 Defensive Security, SIEM & Data Analysis
+
+*   **Splunk**
+    *   *Use Case:* Ingesting and analyzing log data, threat hunting, and creating security monitoring dashboards.
+*   **Looker**
+    *   *Use Case:* Building interactive dashboards to visualize security metrics and reporting on security posture.
+
+### 🌐 Platforms & Core Knowledge
+
+*   **Windows Active Directory**
+    *   *Use Case:* Understanding, enumerating, and securing AD environments against common attacks (e.g., Kerberoasting).
+*   **Networking Fundamentals**
+    *   *Use Case:* Deep understanding of TCP/IP, DNS, and HTTP/S for traffic analysis and identifying anomalies.
+*   **SQL**
+    *   *Use Case:* Querying and managing relational databases.
 
 
 ## 📫 How to Reach Me
